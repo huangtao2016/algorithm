@@ -4,6 +4,7 @@ package com.baidu.algorithm.basic_class_01;
  * 经典快排和随机快排
  * 时间复杂度 O(N*logN)
  * 额外空间复杂度 O(logN)
+ * 不是稳定的
  */
 public class Code_04_QuickSort {
 

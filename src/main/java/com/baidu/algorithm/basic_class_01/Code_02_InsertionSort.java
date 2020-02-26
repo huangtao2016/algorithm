@@ -5,7 +5,7 @@ package com.baidu.algorithm.basic_class_01;
  * 时间复杂度
  *    数组已经排好序：O(N)
  *    数组逆序：O(N2)
- *
+ * 可以做到稳定性
  */
 public class Code_02_InsertionSort {
 

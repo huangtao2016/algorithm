@@ -4,6 +4,7 @@ package com.baidu.algorithm.basic_class_01;
  * 归并排序
  * 时间复杂度 O(N*logN)
  * 空间复杂度 O(N)
+ * 稳定
  */
 public class Code_03_MergeSort {
 

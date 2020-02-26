@@ -3,6 +3,8 @@ package com.baidu.algorithm.basic_class_01;
 /**
  * 选择排序
  * 时间复杂度 O(N2), 空间复杂度 O(1)
+ * 稳定性：不是稳定的，比如 3 3 4 2 1
+ *       并且做不到稳定
  */
 public class Code_01_SelectionSort {
 

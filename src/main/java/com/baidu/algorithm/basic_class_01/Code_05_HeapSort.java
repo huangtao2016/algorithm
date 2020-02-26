@@ -2,8 +2,9 @@ package com.baidu.algorithm.basic_class_01;
 
 /**
  * 堆排序
- * 时间复杂度
- * 空间复杂度
+ * 时间复杂度O(N*logN)
+ * 空间复杂度O(1)
+ * 不是稳定的
  */
 public class Code_05_HeapSort {
 
